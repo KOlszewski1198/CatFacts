@@ -1,0 +1,5 @@
+{"Fact":"Most cats adore sardines.","Length":25} 
+{"Fact":"Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.","Length":87} 
+{"Fact":"Researchers believe the word “tabby” comes from Attabiyah, a neighborhood in Baghdad, Iraq. Tabbies got their name because their striped coats resembled the famous wavy patterns in the silk produced in this city.","Length":212} 
+{"Fact":"A happy cat holds her tail high and steady.","Length":43} 
+{"Fact":"A cat lover is called an Ailurophilia (Greek: cat+lover).","Length":57} 
